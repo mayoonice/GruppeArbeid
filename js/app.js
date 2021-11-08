@@ -1,2 +1,2 @@
-function addAnimals heiheihe
-function cat ()
+function cat()
+function addAnimals heiheihe hei
