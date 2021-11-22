@@ -1,4 +1,4 @@
-<template>PAGE</template>
+<template>Slideshow</template>
 
 <script>
 export default {

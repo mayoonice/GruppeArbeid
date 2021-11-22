@@ -1,4 +1,4 @@
-<template>PAGE</template>
+<template>Table</template>
 
 <script>
 export default {
