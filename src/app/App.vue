@@ -3,16 +3,15 @@
 </template>
 
 <script>
-import - from "-";
+/* import - from "-"; */
 
 export default {
-  components: {
-  },
+  components: {},
 };
 </script>
 
 <style>
 @import "../css/reset.css";
-@import "../css/style.css";
 @import "../css/variables.css";
+@import "../css/style.css";
 </style>
