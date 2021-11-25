@@ -1,8 +1,5 @@
-/*
-import - from '-'
-
+import ContactForm from '../views/ContactForm.vue'
 
 export default [
-    { name: '--', path: '/', component: -- }
+    { name: 'contactForm', path: '/', component: ContactForm }
 ]
-*/

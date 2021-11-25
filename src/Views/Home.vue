@@ -1,5 +1,5 @@
 <template>
-  <RouterView />
+  <div>HOMEPAGE</div>
   <ContactForm />
 </template>
 
@@ -14,7 +14,4 @@ export default {
 </script>
 
 <style>
-@import "../css/reset.css";
-@import "../css/variables.css";
-@import "../css/style.css";
 </style>
