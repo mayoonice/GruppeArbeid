@@ -47,7 +47,7 @@
 }
 
 .contact-form div {
-  padding: 10px;
+  padding: 50px;
 }
 
 .contact-form__message {
