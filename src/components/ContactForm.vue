@@ -1,4 +1,5 @@
 <template>
+  HEI
   <form action="" ref="form" @submit.prevent="sendEmail">
     <label>Name</label>
     <input type="text" name="name" />
@@ -10,19 +11,6 @@
 </template>
 
 <script>
-export default {
-  components: {
-    ContactForm,
-  },
-
-  data() {
-    return {};
-  },
-
-  methods: {
-    log() {},
-  },
-};
 </script>
 
 <style>
