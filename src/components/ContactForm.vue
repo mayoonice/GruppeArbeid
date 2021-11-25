@@ -55,6 +55,6 @@
   align-items: flex-end;
 }
 .contact-form__message--textbox {
-  height: 20vh;
+  height: 40vh;
 }
 </style>
