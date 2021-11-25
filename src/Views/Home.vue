@@ -11,6 +11,8 @@ export default {
     ContactForm,
   },
 };
+
+console.log("hei");
 </script>
 
 <style>

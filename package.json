@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/mayoonice/git_test#readme",
   "dependencies": {
-    "vue": "^3.2.22"
+    "vue": "^3.2.22",
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.4",
